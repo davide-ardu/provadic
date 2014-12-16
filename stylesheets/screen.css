@@ -136,6 +136,20 @@ a#forkme_banner:hover {
 
 /* header */
 
+#loading {
+position: absolute;
+left: 34%;
+top: 130px;
+width: 31%;
+height: 100px;
+z-index: 1;
+background-color: #917ea6;
+font: 40px Arial, Helvetica, sans-serif;
+color: #fff;
+padding: 20px;
+border: 3px dotted #fff;
+}
+
 p {
   background-color: #ece4f5;
 }
