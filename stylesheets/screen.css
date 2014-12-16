@@ -136,6 +136,10 @@ a#forkme_banner:hover {
 
 /* header */
 
+p {
+  background-color: #ece4b5;
+}
+
 header {
   position: relative;
   z-index: 2;
